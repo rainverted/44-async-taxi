@@ -7,7 +7,7 @@ Kiekvienos keliones metu, kas sekunde, reikia isspausdinti keliones progresa - k
 Keliones pabaigoje - parasyti "Kelione baigta";
 */
 
-const Taxi = require('./Taxi');
+const Taxi = require('./Taxi.js');
 
 (async () => {
 
